@@ -21,7 +21,7 @@ div img {
 }
 
 h1, h2 {
-    font font-family: 'lora', serif;
+    font-family: 'lora', serif;
 }
 h1 {
     font-size: 40px;
@@ -37,3 +37,7 @@ p {
     line-height: 150%;
     margin-bottom: 32px;
 }
+ .tempo {
+    background-color:#fff7fb;
+    padding: 28px;
+    }
